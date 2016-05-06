@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: edu.utdallas.msh150130.cs2336.reversi.Reversi
